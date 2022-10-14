@@ -1,6 +1,6 @@
 settings:
   commit_msg: "Update README.md"
-  max_lines: 5
+  max_lines: 20
   disabled_events:
     - "fork"
     - "push"
