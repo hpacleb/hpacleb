@@ -4,3 +4,5 @@ settings:
   disabled_events:
     - "fork"
     - "push"
+    - "star"
+    - "create_repo"
