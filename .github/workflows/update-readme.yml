@@ -13,7 +13,5 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: Readme-Workflows/recent-activity@main
-        settings:
-          disabled_events: [ push, create_repo, star ]
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
