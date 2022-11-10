@@ -17,11 +17,10 @@
 11. 👍 Approved [#32](https://github.com/yajra/laravel-datatables-export/pull/32#pullrequestreview-1127127286) in [yajra/laravel-datatables-export](https://github.com/yajra/laravel-datatables-export)
 12. 💪 Opened PR [#8268](https://github.com/laravel/docs/pull/8268) in [laravel/docs](https://github.com/laravel/docs)
 13. 💪 Opened PR [#30](https://github.com/yajra/laravel-datatables-export/pull/30) in [yajra/laravel-datatables-export](https://github.com/yajra/laravel-datatables-export)
-14. ❗️ Opened issue [#28](https://github.com/yajra/laravel-datatables-export/issues/28) in [yajra/laravel-datatables-export](https://github.com/yajra/laravel-datatables-export)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 9th, 2022, 5:40:09 PM
+Last Updated: Thursday, November 10th, 2022, 5:41:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Hpacleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpacleb&show_icons=true&theme=radical&include_all_commits=true&layout=compact)
