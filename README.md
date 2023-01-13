@@ -24,6 +24,6 @@
 Last Updated: Friday, December 30th, 2022, 12:44:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-![Hpacleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpacleb&show_icons=true&theme=radical&include_all_commits=true&layout=compact)
+![Hpacleb's GitHub stats](https://github-stats-alpha.vercel.app/api?username=hpacleb&show_icons=true&theme=radical&include_all_commits=true&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpacleb&layout=compact&theme=radical&langs_count=8)
+![Top Langs](https://github-stats-alpha.vercel.app/api/top-langs/?username=hpacleb&layout=compact&theme=radical&langs_count=8)
