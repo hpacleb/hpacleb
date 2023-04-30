@@ -19,15 +19,10 @@
 13. 💪 Opened PR [#2944](https://github.com/yajra/laravel-datatables/pull/2944) in [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables)<br>
 14. 🎉 Merged PR [#11](https://github.com/hpacleb/barebone-laravel/pull/11) in [hpacleb/barebone-laravel](https://github.com/hpacleb/barebone-laravel)<br>
 15. 💬 Commented on [#46](https://github.com/yajra/laravel-datatables-export/pull/46#discussion_r1092669877) in [yajra/laravel-datatables-export](https://github.com/yajra/laravel-datatables-export)<br>
-16. 🎉 Merged PR [#6](https://github.com/hpacleb/barebone-laravel/pull/6) in [hpacleb/barebone-laravel](https://github.com/hpacleb/barebone-laravel)<br>
-17. 🎉 Merged PR [#5](https://github.com/hpacleb/barebone-laravel/pull/5) in [hpacleb/barebone-laravel](https://github.com/hpacleb/barebone-laravel)<br>
-18. 🎉 Merged PR [#7](https://github.com/hpacleb/barebone-laravel/pull/7) in [hpacleb/barebone-laravel](https://github.com/hpacleb/barebone-laravel)<br>
-19. 🎉 Merged PR [#8](https://github.com/hpacleb/barebone-laravel/pull/8) in [hpacleb/barebone-laravel](https://github.com/hpacleb/barebone-laravel)<br>
-20. 🎉 Merged PR [#9](https://github.com/hpacleb/barebone-laravel/pull/9) in [hpacleb/barebone-laravel](https://github.com/hpacleb/barebone-laravel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 30th, 2023, 12:44:38 AM
+Last Updated: Sunday, April 30th, 2023, 12:46:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ![Hpacleb's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hpacleb&show_icons=true&theme=radical&include_all_commits=true&layout=compact)
