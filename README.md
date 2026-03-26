@@ -12,4 +12,4 @@ Last Updated: Friday, January 30th, 2026, 1:17:23 AM
 
 ![Hpacleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpacleb&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpacleb)](https://github.com/hpacleb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpacleb&theme=transparent)](https://github.com/hpacleb/github-readme-stats)
