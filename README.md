@@ -10,6 +10,6 @@
 Last Updated: Thursday, April 30th, 2026, 2:08:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-![Hpacleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpacleb&show_icons=true&theme=transparent)
+![Hpacleb's GitHub stats](./profile/stats.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpacleb&theme=transparent)](https://github.com/hpacleb/github-readme-stats)
