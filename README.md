@@ -16,6 +16,8 @@ I build web products and the automation around them: Laravel/PHP and TypeScript/
 | [Food 21 Services](https://food21services.com) · [source](https://github.com/hpacleb/food21web) | Laravel 13 + Inertia + React site for a Parañaque catering and delivery business: menu catalog, catering inquiry pipeline with a staff dashboard, technical SEO and structured data. |
 | [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge/pull/3084) | Merged a new PHP bridge for the Honkai Impact 3rd SEA news site (+75 lines) and a GMT+8 timezone fix in the Genshin Impact bridge. |
 
+Older repositories on this account are coursework and forks from 2016–2019. The current, maintained work is listed above.
+
 ## Tools I use
 
 PHP · Laravel · TypeScript · React 19 · Inertia.js · Tailwind CSS · Python · Node.js · SQL (MySQL, PostgreSQL, Oracle) · OpenAI & Anthropic APIs · RAG · LangChain · Docker · GitHub Actions · Linux/nginx
