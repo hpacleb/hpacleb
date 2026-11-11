@@ -20,7 +20,7 @@ Older repositories on this account are coursework and forks from 2016–2019. Th
 
 ## Tools I use
 
-PHP · Laravel · TypeScript · React 19 · Inertia.js · Tailwind CSS · Python · Node.js · SQL (MySQL, PostgreSQL, Oracle) · OpenAI & Anthropic APIs · RAG · LangChain · Docker · GitHub Actions · Linux/nginx
+PHP · Laravel · TypeScript · React 19 · Inertia.js · Tailwind CSS · Python · Node.js · SQL (MySQL, PostgreSQL) · OpenAI & Anthropic APIs · RAG · LangChain · GitHub Actions · Linux/nginx
 
 ## What I am working on
 
